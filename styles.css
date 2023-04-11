@@ -1,0 +1,24 @@
+.frontpage {
+	margin: auto;
+	padding: 25px;
+	background: white;
+	width: 40%;
+	max-width: 450px;
+	font-family: arial;
+}
+
+.links p {
+	display: inline;
+}
+
+body {
+	background: url("background.png");
+}
+
+a {
+	color:black;
+}
+
+a:visited {
+	color: grey;
+}
